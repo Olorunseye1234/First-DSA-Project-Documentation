@@ -21,7 +21,7 @@ Description: Data that includes store IDs, physical addresses, region classifica
 Purpose: To compare sales performance across different branches or regions within Lagos State.
 
 ## Tools Used
-- Microsoft Excel: For data collection,data cleaning and data modeling.
+- Microsoft Excel: For data collection,data cleaning and data modeling(https:/www.microsoft.com)
 - SQL Server: For queries, joins, and data transformation.
 - Power BI: For creating Visual dashboards and interactive reporting.
 - PowerPoint: For Presentation.
