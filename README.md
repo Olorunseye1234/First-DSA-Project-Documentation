@@ -1,6 +1,6 @@
 ## DSA-Project-Documentation
 This portfolio showcases practical data analysis projects developed during my journey to becoming a certified data analyst at the Incubator Hub, Lagos. 
-The projects here demonstrate my skills in data cleaning, exploration, visualization, and storytelling using tools such as Microsoft Excel, SQL, and Power BI. 
+The projects showcased here demonstrate my skills in data cleaning, exploration, visualization, and storytelling, utilizing tools such as Microsoft Excel, SQL, and Power BI. 
 Each project tackles real-world scenarios and emphasizes data-driven insights for decision-making.
 
 ## Project Topic: Sales Performance Dashboard (Power BI)
