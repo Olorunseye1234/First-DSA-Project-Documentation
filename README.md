@@ -17,7 +17,7 @@ Description: A structured dataset containing product details such as product ID,
 Purpose: For categorizing sales data, analyzing product performance, and calculating profit margins.
 
 **###Store Location and Regional Sales Data**
-Description: Data that includes store IDs, physical addresses,(url) region classifications, and store-level performance indicators.
+Description: Data that includes store IDs, physical addresses,(URL) region classifications, and store-level performance indicators.
 Purpose: To compare sales performance across different branches or regions within Lagos State.
 
 **## Tools Used**
@@ -27,5 +27,8 @@ Purpose: To compare sales performance across different branches or regions withi
 - PowerPoint: For Presentation.
 ## Data Sources
 [**#Point of Sale (POS) Data**](url)
+
+💻
+🚗
 
 
